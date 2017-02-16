@@ -4,10 +4,7 @@ Basic "implementation" of Fedict eid MV (v4.2) to retrieve BE ID Card infos.
 > Inspired and origin from http://github.com/Fedict/eid-mw
 
 
-
-
-
-In order to build the SDK C# samples, the following software needs to be installed:
+####Make####
 
 1) development environment:
 Microsoft Visual Studio 2012 express project files are present in the sdk.
