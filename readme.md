@@ -1,5 +1,7 @@
+*EidCardReader*
+
 Basic "implementation" of Fedict eid MV (v4.2) to retrieve BE ID Card infos.
->> Inspired and origin from http://github.com/Fedict/eid-mw
+> Inspired and origin from http://github.com/Fedict/eid-mw
 
 
 
