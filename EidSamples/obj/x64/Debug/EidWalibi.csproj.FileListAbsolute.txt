@@ -1,0 +1,9 @@
+Y:\WalibiEid\EidSamples\bin\x64\Debug\EidSamples.exe.config
+Y:\WalibiEid\EidSamples\obj\x64\Debug\EidSamples.exe
+Y:\WalibiEid\EidSamples\obj\x64\Debug\EidSamples.pdb
+Y:\WalibiEid\EidSamples\bin\x64\Debug\EidSamples.exe
+Y:\WalibiEid\EidSamples\bin\x64\Debug\EidSamples.pdb
+Y:\WalibiEid\EidSamples\bin\x64\Debug\EidSamples.XML
+Y:\WalibiEid\EidSamples\bin\x64\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Y:\WalibiEid\EidSamples\bin\x64\Debug\Net.Pkcs11.dll
+Y:\WalibiEid\EidSamples\obj\x64\Debug\EidWalibi.csprojResolveAssemblyReference.cache

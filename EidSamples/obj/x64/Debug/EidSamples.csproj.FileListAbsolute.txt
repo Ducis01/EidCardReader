@@ -1,0 +1,9 @@
+Y:\eid-mw-4.2.0\doc\sdk\examples\CS\EidSamples\bin\x64\Debug\EidSamples.exe.config
+Y:\eid-mw-4.2.0\doc\sdk\examples\CS\EidSamples\bin\x64\Debug\EidSamples.exe
+Y:\eid-mw-4.2.0\doc\sdk\examples\CS\EidSamples\bin\x64\Debug\EidSamples.pdb
+Y:\eid-mw-4.2.0\doc\sdk\examples\CS\EidSamples\bin\x64\Debug\EidSamples.XML
+Y:\eid-mw-4.2.0\doc\sdk\examples\CS\EidSamples\bin\x64\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Y:\eid-mw-4.2.0\doc\sdk\examples\CS\EidSamples\bin\x64\Debug\Net.Pkcs11.dll
+Y:\eid-mw-4.2.0\doc\sdk\examples\CS\EidSamples\obj\x64\Debug\EidSamples.csprojResolveAssemblyReference.cache
+Y:\eid-mw-4.2.0\doc\sdk\examples\CS\EidSamples\obj\x64\Debug\EidSamples.exe
+Y:\eid-mw-4.2.0\doc\sdk\examples\CS\EidSamples\obj\x64\Debug\EidSamples.pdb
